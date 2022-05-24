@@ -1,2 +1,2 @@
 # portfolio
-My own portfolio webpage
+My own portfolio webpage designed by using only HTML & CSS.
